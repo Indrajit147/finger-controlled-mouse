@@ -15,4 +15,4 @@ This project was a fantastic way to dive deeper into computer vision, hand track
 3. MediaPipe (for hand tracking and landmark detection)
 4. PyAutoGUI (for cursor control and click simulation)
 
-I’m incredibly proud of how this turned out, and I’m excited to explore more applications of computer vision and gesture-based controls in the future.
+
